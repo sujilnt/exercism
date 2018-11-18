@@ -1,6 +1,6 @@
 const toRna = (input) => {
 	const pattern = /[^GCTA]/ ;
-	return !pattern.test(input) ? rnatranscriptionReplacement(input): throw"Invalid input DNA.";
+	return !pattern.test(input) ? rnatranscriptionReplacement(input): "Invalid input DNA.";
 };
 
 const rnatranscriptionReplacement= (input)=>{
