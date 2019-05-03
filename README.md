@@ -1,4 +1,4 @@
-# exercism
+# Exercism
 A set of programming execise of solving some coding problems.
 
 > [Exercism](http://exercism.io/sujilnt) solutions
